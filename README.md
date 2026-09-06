@@ -8,6 +8,9 @@ landscaping business with 10+ employees.
 - Customer quote requests trigger an automated branded HTML
   email confirmation sent to the client within seconds
 
+## Email Preview
+![Automated confirmation email](images/Nature's-Edge-Email.png)
+
 ## Tech
 - Google Apps Script (JavaScript)
 - Google Sheets API
