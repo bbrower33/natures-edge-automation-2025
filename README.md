@@ -9,7 +9,7 @@ landscaping business with 10+ employees.
   email confirmation sent to the client within seconds
 
 ## Email Preview
-![Automated confirmation email](main/Nature's-Edge-Email.png)
+![Automated confirmation email]([main/Nature's-Edge-Email.png](https://github.com/bbrower33/natures-edge-automation-2025/issues/1#issue-5366823165))
 
 ## Tech
 - Google Apps Script (JavaScript)
